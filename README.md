@@ -21,3 +21,7 @@ https://www.reichelt.de/de/de/shop/produkt/entwicklungsboard_esp32-wroom-32e-341
 # Simulator
 
 https://wokwi.com/
+
+# Plan
+
+<img width="1602" height="744" alt="submarine_5_wiring_schematic" src="https://github.com/user-attachments/assets/9cd5bdb0-d329-4e6e-af94-e16ae6c30d0f" />
